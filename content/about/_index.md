@@ -23,4 +23,4 @@ Mi objetivo es ir subiendo, a través de esta plataforma, los apuntes, tareas y 
 
 Para poder acceder a los contenidos tienes que darle click a cada una de las secciones y ahí encontrarás todo lo que estás buscando.
 
-[1]: /sobre-la-pagina.jpg
+[1]: /img/sobre-la-pagina.jpg
