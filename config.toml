@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "DAW 2º"
+theme="hugo-creative"
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "pink"
+  copyright = "&copy;2021 Leila Falah"
+
+  #Links para navegar en la barra lateral
+
+  [[params.navlinks]]
+  name = "Sobre"
+  url = "about/"
+  home = true
+
+  [[params.navlinks]]
+  name = "DWES"
+  url = "dwes/"
+
+
+  [params.social]
+  email         = "mailto:leilafalahr@gmail.com"
+  twitter       = "twitter.com/leilafalahr"
+  instagram     = "instagram.com/leilafalahr"
+  github        = "github.io/leilafalahr"
