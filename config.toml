@@ -1,4 +1,4 @@
-baseURL = "http://leilafalahr.github.io/daw"
+baseURL = "http://leilafalahr.github.io/daw/"
 languageCode = "en-us"
 title = "DAW 2º"
 theme="hugo-creative"
