@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 baseURL = "https://leilafalahr.github.io/daw/"
+=======
+baseURL = "http://leilafalahr.github.io/daw/"
+>>>>>>> dea45c4bd458015a1cab5417df45c8950b2e407f
 languageCode = "en-us"
 title = "DAW 2º"
 theme="hugo-creative"
