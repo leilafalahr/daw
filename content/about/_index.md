@@ -6,7 +6,7 @@ title = "Sobre esta página"
 Como una primera práctica de la asignatura **DWES**, hago esta primera página estática con HUGO y el tema **hugo-creative**.
 Me gustó por la sencillez y el dinamismo y para una mayor organización de mis contenidos.
 
-![Imagen de Lisa Simpson](../../static/img/1.jpg) 
+![Imagen de Lisa Simpson][1]
 
 Las asignaturas que trabajamos este curso son las siguientes:
 
@@ -22,3 +22,5 @@ Las asignaturas que trabajamos este curso son las siguientes:
 Mi objetivo es ir subiendo, a través de esta plataforma, los apuntes, tareas y desarrollo de las mismas. 
 
 Para poder acceder a los contenidos tienes que darle click a cada una de las secciones y ahí encontrarás todo lo que estás buscando.
+
+[1]:pagina.jpg
