@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwec/ejercicio1/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwes/practica1/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwes/practica2/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwec/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwes/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/dwes/practica-hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>leilafalah.infenlaces.com/tags/</loc>
+  </url>
+  
+</urlset>
