@@ -15,7 +15,7 @@ weight = 0
 
 
 
- ![Diagrama](content/dwes/1.jpg)
+ ![Diagrama](https://github.io/le1.jpg)
 
 
 > **Ejercicio 2:** A continuación te nombro varias herramientas/tecnologías para el desarrollo web.Se trata de que las agrupes y hagas un par de frases de qué es cada cosa.Usa tus propias palabras y aporta la url de su página oficialAprovecha este ejercicio para ampliar tu vocabulario y conocimiento técnico:
