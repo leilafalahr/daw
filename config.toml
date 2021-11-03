@@ -25,6 +25,10 @@ googleAnalytics = ""
   name = "DWES"
   url = "dwes/"
 
+ [[params.navlinks]]
+  name = "DWEC"
+  url = "dwec/"
+
 
   [params.social]
   email         = "mailto:leilafalahr@gmail.com"
