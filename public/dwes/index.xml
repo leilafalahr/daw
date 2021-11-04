@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dwes on DAW 2º</title>
-    <link>leilafalah.infenlaces.com/dwes/</link>
+    <link>/dwes/</link>
     <description>Recent content in Dwes on DAW 2º</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="leilafalah.infenlaces.com/dwes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/dwes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1º PRÁCTICA</title>
-      <link>leilafalah.infenlaces.com/dwes/practica1/</link>
+      <link>/dwes/practica1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>leilafalah.infenlaces.com/dwes/practica1/</guid>
+      <guid>/dwes/practica1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2º PRÁCTICA</title>
-      <link>leilafalah.infenlaces.com/dwes/practica2/</link>
+      <link>/dwes/practica2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>leilafalah.infenlaces.com/dwes/practica2/</guid>
+      <guid>/dwes/practica2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PRÁCTICA HUGO</title>
-      <link>leilafalah.infenlaces.com/dwes/practica-hugo/</link>
+      <link>/dwes/practica-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>leilafalah.infenlaces.com/dwes/practica-hugo/</guid>
+      <guid>/dwes/practica-hugo/</guid>
       <description></description>
     </item>
     

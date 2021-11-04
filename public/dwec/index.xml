@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dwecs on DAW 2º</title>
-    <link>leilafalah.infenlaces.com/dwec/</link>
+    <link>/dwec/</link>
     <description>Recent content in Dwecs on DAW 2º</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="leilafalah.infenlaces.com/dwec/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/dwec/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1º Ejercicio</title>
-      <link>leilafalah.infenlaces.com/dwec/ejercicio1/</link>
+      <link>/dwec/ejercicio1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>leilafalah.infenlaces.com/dwec/ejercicio1/</guid>
+      <guid>/dwec/ejercicio1/</guid>
       <description></description>
     </item>
     
