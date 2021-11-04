@@ -109,8 +109,6 @@
     $apellido = "Falah";
 ?>
 
-</head>
-<body>
 <div class="estilo">
 <ol>
     <li><?php echo "Mi nombre es <span class='rojo'>$nombre</span> y mi apellido <span class='rojo'>$apellido</span>"?></li>
